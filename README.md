@@ -5,3 +5,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahjsrhj&theme=react&layout=compact)](https://github.com/ahjsrhj)
 
+[![骑行记录](https://raw.githubusercontent.com/ahjsrhj/ahjsrhj/main/riding.svg)](https://github.com/ahjsrhj)
